@@ -1,9 +1,9 @@
 class Taykit < Formula
   desc "Taylor bioinformatics command-line toolkit"
   homepage "https://github.com/richardmarktaylor/taykit"
-  url "https://github.com/richardmarktaylor/taykit/releases/download/v1.4.1/taykit-macos-arm64.tar.gz"
-  sha256 "b62166b50bb769c49887cfff17e92f59a1235d9d1d334adb668f6ed231ba5fc2"
-  version "1.4.1"
+  url "https://github.com/richardmarktaylor/taykit/releases/download/v1.5.1/taykit-macos-arm64.tar.gz"
+  sha256 "498af4edb271d936d9c82b089a0fcbd19a90b14b5e35a8edcaae900c1bb4aa00"
+  version "1.5.1"
 
   def install
     bin.install "taykit"
